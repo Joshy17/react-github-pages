@@ -2,7 +2,7 @@
   "name": "rick-morty-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Joshy17.github.io/Joshy17.github.io/build",
+  "homepage": "https://Joshy17.github.io/react-github-pages/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
